@@ -3,4 +3,5 @@ I developed this project using Python and MySQL. The "Library Management System"
 
 Command for install libraries -
 1.Pandas - pip install pandas
+
 2.Maskpass - pip install maskpass
