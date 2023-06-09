@@ -9,7 +9,7 @@ Software Requirements-
    
    Use Command for install libraries : 
    
-                      1. Pandas - pip install panda
+                      1. Pandas - pip install pandas
                       2. Maskpass - pip install maskpass
    
  
