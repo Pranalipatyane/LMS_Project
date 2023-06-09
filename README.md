@@ -18,8 +18,8 @@ Software Requirements-
 
 4. Software Platform - 
 
-                       Visual studio Code
+                       1. Visual studio Code
 
-                       Python pip version
+                       2. Python pip version
                        
-                       Command Prompt
+                       3. Command Prompt
